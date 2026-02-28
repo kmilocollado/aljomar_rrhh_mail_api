@@ -1,0 +1,10 @@
+{
+  "name": "rrhh-mail-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API para enviar correos del formulario RRHH vía SMTP Office 365 (pedidos@aljomar.es)",
+  "main": "api/send.js",
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  }
+}
